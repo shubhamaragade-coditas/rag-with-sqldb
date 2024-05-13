@@ -1,0 +1,2 @@
+--upgrade  langchain-google-genai
+python-dotenv
